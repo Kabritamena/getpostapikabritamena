@@ -1,0 +1,27 @@
+{
+  "name": "getpostapikabritamena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kabritamena/getpostapikabritamena.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kabritamena/getpostapikabritamena/issues"
+  },
+  "homepage": "https://github.com/Kabritamena/getpostapikabritamena#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "serverless-http": "^3.2.0"
+  }
+}
